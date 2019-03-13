@@ -1,9 +1,39 @@
-div {
+.smallbox {
     border: 1px solid gray;
     padding: 4px;
     margin: 2px;
     width: 200px;
     height: 20px;
+}
+
+.links {
+    border: 1px solid gray;
+    padding: 4px;
+    margin: 2px;
+    width: 200px;
+    height: 45px;
+    background: rgb(250, 153, 20);
+    font-family:'Franklin Gothic Medium'
+    
+}
+
+.myclass {
+    border: 1px solid gray;
+    padding: 4px;
+    margin: 2px;
+    width: 200px;
+    height: 200px;
+}
+
+#mypos {
+    position: relative;
+    left: 500px;
+}
+
+#alpacka {
+    position: relative;
+    left: 300px;
+    top: 50px;
 }
 
 #fixed {
@@ -13,7 +43,7 @@ div {
 
 #relative {
     position: relative;
-    left: 100px;
+    left: 700px;
     top: 20px;
 }
 
