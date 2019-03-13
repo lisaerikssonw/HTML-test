@@ -12,7 +12,7 @@
     margin: 2px;
     width: 200px;
     height: 45px;
-    background: rgb(250, 153, 20);
+    background: rgb(250, 155, 20);
     font-family:'Franklin Gothic Medium'
     
 }
@@ -27,12 +27,12 @@
 
 #mypos {
     position: relative;
-    left: 500px;
+    left: 520px;
 }
 
 #alpacka {
     position: relative;
-    left: 300px;
+    left: 350px;
     top: 50px;
 }
 
