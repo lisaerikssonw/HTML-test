@@ -57,3 +57,11 @@
     position: static;
     left: 200px;
 }
+
+table {
+    background: gray;
+}
+
+thead {
+    background: yellow;
+}
